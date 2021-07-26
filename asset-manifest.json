@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prakhar2407.github.io/csb-enwbm/static/css/main.7ef4fd85.chunk.css",
+    "main.js": "https://prakhar2407.github.io/csb-enwbm/static/js/main.3d1909b2.chunk.js",
+    "main.js.map": "https://prakhar2407.github.io/csb-enwbm/static/js/main.3d1909b2.chunk.js.map",
+    "runtime-main.js": "https://prakhar2407.github.io/csb-enwbm/static/js/runtime-main.bc40b7d5.js",
+    "runtime-main.js.map": "https://prakhar2407.github.io/csb-enwbm/static/js/runtime-main.bc40b7d5.js.map",
+    "static/js/2.cdc0e438.chunk.js": "https://prakhar2407.github.io/csb-enwbm/static/js/2.cdc0e438.chunk.js",
+    "static/js/2.cdc0e438.chunk.js.map": "https://prakhar2407.github.io/csb-enwbm/static/js/2.cdc0e438.chunk.js.map",
+    "index.html": "https://prakhar2407.github.io/csb-enwbm/index.html",
+    "static/css/main.7ef4fd85.chunk.css.map": "https://prakhar2407.github.io/csb-enwbm/static/css/main.7ef4fd85.chunk.css.map",
+    "static/js/2.cdc0e438.chunk.js.LICENSE.txt": "https://prakhar2407.github.io/csb-enwbm/static/js/2.cdc0e438.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc40b7d5.js",
+    "static/js/2.cdc0e438.chunk.js",
+    "static/css/main.7ef4fd85.chunk.css",
+    "static/js/main.3d1909b2.chunk.js"
+  ]
+}
